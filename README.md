@@ -24,10 +24,10 @@ I am a Backend Developer from Indonesian :
 ### 🧰 Technologies and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" alt="adonis" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original-wordmark.svg" alt="adonis" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
