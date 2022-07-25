@@ -7,6 +7,9 @@
     <a href="https://twitter.com/anggi117_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://facebook.com/anggi118">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=anggi117&style=flat-square&color=red">
   <h3><b>Hi i'm Anggie Dwi Putra👋</b></h3>
@@ -23,14 +26,15 @@ I am a Backend Developer from Indonesian :
 ---
 ### 🧰 Technologies and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original-wordmark.svg" alt="adonis" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original-wordmark.svg" alt="adonis" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="70" height="70">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcloud" width="90" height="90">
 </div>
 <!--
 **anggi117/anggi117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
