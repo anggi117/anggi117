@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/736x/4f/b8/b4/4fb8b4c914882df90ad93ed5e3ca58ee.jpg" width="100"/>
+  <img src="https://i.ibb.co/VM52nW3/be.png" width="100"/>
     <div id="badges">
     <a href="https://linkedin.com/in/anggi117">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/anggi117">
+    <a href="https://instagram.com/anggi117">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://facebook.com/anggi118">
