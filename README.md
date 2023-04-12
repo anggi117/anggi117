@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://facebook.com/anggi118">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=anggi117&style=flat-square&color=red">
